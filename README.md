@@ -5,7 +5,7 @@ simple python script for automating excel spreadsheet numerical data.
 In this folder you can find applications of the script and a guide to creating a simple exe from it.
 ##### Packages used can all be installed via pip (python 3.6>)
 
-########pivot-to-report-to-exe.py can be simply converted to an exe file by using this cmd on your directory terminal:
+###pivot-to-report-to-exe.py can be simply converted to an exe file by using this cmd on your directory terminal:
  
                pyinstaller --onefile pivot-to-report-to-exe.py
 
